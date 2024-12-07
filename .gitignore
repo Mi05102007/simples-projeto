@@ -35,6 +35,10 @@ Criar um aplicativo web simples que permita aos usuários gerenciar tarefas de f
 
 ## Licença  
 MIT  
-
+fix
+feature/add-task 
+feature/edit-task
+feature/delete-task
+feature/mark-complete
 
 
